@@ -1,4 +1,8 @@
 # stepik_auto_tests_pytest_plugins
+# Installation
+```bash
+pip install -r requirements.txt
+```
 # How to use
 Для установки языка используем аргумент --language
 ```bash
